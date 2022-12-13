@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Give-Work-Webapp/static/css/main.4c4f450c.css",
-    "main.js": "/Give-Work-Webapp/static/js/main.237025cf.js",
+    "main.js": "/Give-Work-Webapp/static/js/main.c404ded5.js",
     "static/media/block.svg": "/Give-Work-Webapp/static/media/block.b3cda3b9b5348c58d978c355784bb50d.svg",
     "static/media/logo.svg": "/Give-Work-Webapp/static/media/logo.027437a4ef42f43e2ca0d82ce05c4ff7.svg",
     "index.html": "/Give-Work-Webapp/index.html",
     "main.4c4f450c.css.map": "/Give-Work-Webapp/static/css/main.4c4f450c.css.map",
-    "main.237025cf.js.map": "/Give-Work-Webapp/static/js/main.237025cf.js.map"
+    "main.c404ded5.js.map": "/Give-Work-Webapp/static/js/main.c404ded5.js.map"
   },
   "entrypoints": [
     "static/css/main.4c4f450c.css",
-    "static/js/main.237025cf.js"
+    "static/js/main.c404ded5.js"
   ]
 }
